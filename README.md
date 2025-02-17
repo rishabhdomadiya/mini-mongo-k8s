@@ -1,0 +1,1 @@
+# mini-mongo-k8s
